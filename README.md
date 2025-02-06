@@ -15,5 +15,5 @@ Welcome to my GitHub! I'm a passionate programmer who loves learning, coding, an
 ---
 
 <div align="right">
-  <img src="../../临时文件/angry.gif" alt="angry gif" />
+  <img src="./assets/angry.gif" alt="angry gif" />
 </div>
